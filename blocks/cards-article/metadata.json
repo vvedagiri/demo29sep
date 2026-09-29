@@ -1,0 +1,14 @@
+{
+  "variantName": "cards-article",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "Grey section; linked article cards with a 3:2 image on top, tag pill + date on one line, and an H3 title; 1 column on mobile, 2 on tablet, 4 on desktop; whole card clickable",
+  "contentPattern": "N rows x 2 cells: [img] | [p tag, p date, h3 linked title]",
+  "options": [],
+  "memberVariantIds": ["cards-article"],
+  "usage": {
+    "pagesUsing": ["https://www.wknd-trendsetters.site/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-09-29"
+  }
+}

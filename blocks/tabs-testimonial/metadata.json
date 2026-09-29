@@ -1,0 +1,14 @@
+{
+  "variantName": "tabs-testimonial",
+  "baseBlock": "tabs",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "White section; active testimonial panel on top with a large image left and name, role and quote right; a row of 4 tab buttons below, each with a round avatar, name and role; stacks on mobile with a 2-up tab grid",
+  "contentPattern": "N rows x 2 cells: [tab label: optional avatar img, name, role] | [img, strong name, role, p quote]",
+  "options": [],
+  "memberVariantIds": ["tabs-testimonial"],
+  "usage": {
+    "pagesUsing": ["https://www.wknd-trendsetters.site/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-09-29"
+  }
+}

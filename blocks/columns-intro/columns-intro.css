@@ -1,0 +1,57 @@
+.columns-intro .columns-intro-row {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+/* CTA links grouped into one wrapping row */
+.columns-intro .columns-intro-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+}
+
+.columns-intro .columns-intro-actions p {
+  margin: 0;
+}
+
+.columns-intro .columns-intro-empty {
+  display: none;
+}
+
+.columns-intro .columns-intro-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.columns-intro .columns-intro-image {
+  line-height: 0;
+  overflow: hidden;
+}
+
+/* collage: 2-up grid, images keep a consistent aspect */
+.columns-intro .columns-intro-collage {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.columns-intro .columns-intro-collage .columns-intro-image {
+  aspect-ratio: 4 / 3;
+}
+
+@media (width >= 900px) {
+  .columns-intro .columns-intro-row {
+    flex-direction: row;
+    align-items: center;
+    gap: 48px;
+  }
+
+  .columns-intro .columns-intro-row > div {
+    flex: 1;
+    min-width: 0;
+  }
+}

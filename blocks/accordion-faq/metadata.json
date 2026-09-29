@@ -1,0 +1,14 @@
+{
+  "variantName": "accordion-faq",
+  "baseBlock": "accordion",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "White section; stacked, separately bordered FAQ items with the question on the left and a plus icon on the right that toggles the answer; sits beside intro heading text (default content in a sibling column of the section)",
+  "contentPattern": "N rows x 2 cells: [question] | [answer paragraph]",
+  "options": [],
+  "memberVariantIds": ["accordion-faq"],
+  "usage": {
+    "pagesUsing": ["https://www.wknd-trendsetters.site/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-09-29"
+  }
+}

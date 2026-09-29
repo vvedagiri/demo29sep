@@ -1,0 +1,14 @@
+{
+  "variantName": "cards-gallery",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": "Grey section; image-only photo grid of 1:1 tiles, 2 columns on mobile, 3 on tablet, 4 on desktop; no text",
+  "contentPattern": "N rows x 2 cells: [img] | [optional rich text, usually empty]",
+  "options": [],
+  "memberVariantIds": ["cards-gallery"],
+  "usage": {
+    "pagesUsing": ["https://www.wknd-trendsetters.site/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-09-29"
+  }
+}

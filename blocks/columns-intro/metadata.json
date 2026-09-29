@@ -1,0 +1,14 @@
+{
+  "variantName": "columns-intro",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Light grey section; split layout with heading, intro copy and two CTA buttons on the left, 3-image collage (2-up grid) on the right; stacks on mobile",
+  "contentPattern": "1 row x 2 cells: [h1, p, a.button, a.button] | [img, img, img]",
+  "options": [],
+  "memberVariantIds": ["columns-intro"],
+  "usage": {
+    "pagesUsing": ["https://www.wknd-trendsetters.site/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-09-29"
+  }
+}
