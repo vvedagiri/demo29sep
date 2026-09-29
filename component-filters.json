@@ -15,13 +15,50 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "columns-intro",
+      "columns-feature",
+      "cards-gallery",
+      "tabs-testimonial",
+      "cards-article",
+      "accordion-faq",
+      "hero-banner"
+    ]
+  },
+  {
+    "id": "accordion-faq",
+    "components": [
+      "accordion-faq-item"
+    ]
+  },
+  {
+    "id": "cards-article",
+    "components": [
+      "cards-article-item"
+    ]
+  },
+  {
+    "id": "cards-gallery",
+    "components": [
+      "cards-gallery-item"
     ]
   },
   {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "columns-feature",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "columns-intro",
+    "components": [
+      "column"
     ]
   },
   {
@@ -37,6 +74,12 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "tabs-testimonial",
+    "components": [
+      "tabs-testimonial-item"
     ]
   }
 ]

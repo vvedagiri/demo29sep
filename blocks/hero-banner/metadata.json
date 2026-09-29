@@ -1,0 +1,14 @@
+{
+  "variantName": "hero-banner",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Dark section; contained banner with rounded corners and a full-cover background photo under a dark overlay; large heading, short paragraph and a single CTA overlaid at the lower left",
+  "contentPattern": "hero: [img] / [h2, p, a]",
+  "options": [],
+  "memberVariantIds": ["hero-banner"],
+  "usage": {
+    "pagesUsing": ["https://www.wknd-trendsetters.site/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-09-29"
+  }
+}

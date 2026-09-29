@@ -1,0 +1,14 @@
+{
+  "variantName": "columns-feature",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "White section; large 3:2 feature image on the left, breadcrumb links, H2 title, byline and date/read-time meta on the right; stacks on mobile",
+  "contentPattern": "1 row x 2 cells: [img] | [p (breadcrumb links), h2, p (byline), p (date • read time)]",
+  "options": [],
+  "memberVariantIds": ["columns-feature"],
+  "usage": {
+    "pagesUsing": ["https://www.wknd-trendsetters.site/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-09-29"
+  }
+}
